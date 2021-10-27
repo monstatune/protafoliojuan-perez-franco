@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="estilos/w3.css">
 <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 <style>
-	body {background: #9E3100}
+	body {background: #f0d65c}
 	
 body {font-family: "Raleway", Arial, sans-serif}
 .w3-row img {margin-bottom: 10px}
